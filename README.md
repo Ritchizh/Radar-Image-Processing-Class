@@ -1,4 +1,9 @@
 # Radar-Image-Processing-Class
+<p float="left">
+<img src = "https://github.com/Ritchizh/Radar-Image-Processing-Class/blob/master/imgs_for_readme/Figure_1.png" height = 250>
+<img src = "https://github.com/Ritchizh/Radar-Image-Processing-Class/blob/master/imgs_for_readme/Figure_2.png" height = 220>
+<img src = "https://github.com/Ritchizh/Radar-Image-Processing-Class/blob/master/imgs_for_readme/Figure_3.png" height = 220>
+</p>
 
 **d_R.npy** -- a sample data file with microwave holography data (SAR principle)
 
