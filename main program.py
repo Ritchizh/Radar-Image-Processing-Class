@@ -1,7 +1,12 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
+## On Windows may need to add project folder to path to be able to import Python script as a module:
+# import sys
+# sys.path.append('C:/Users/Margarita/Desktop/Radar-Image-Processing-Class-master/')
+
 import methods #import class with the processing methods
+
 pr = methods.PROCESS()
     
 pr.load_data('d_R.npy', 2) #filename, freq number
